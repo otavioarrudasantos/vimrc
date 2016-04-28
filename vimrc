@@ -41,7 +41,7 @@ map <Leader>t :NERDTree<CR>
 map <Leader>q :NERDTreeClose<CR>
 map <Leader>d :TagbarToggle<CR>
 
-"lightline config
+"lightline config By Manolo
 set laststatus=2
 let g:lightline = {
       \ 'colorscheme': 'Tomorrow_Night_Bright',
